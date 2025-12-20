@@ -1,5 +1,3 @@
-package com.controlflow;
-
 import java.util.Scanner;
 
 //creating class CheckDivisibilityBy5 to check whether a given user input is divisible by 5 or not
