@@ -56,27 +56,26 @@ BridgeLabz-Training/
 
 ## Week 1: Getting Started with Java and Its Basics
 
-### 16-Dec-2025 (Tuesday)
+### 16-Dec-2025 (Tuesday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice)
 
 - Installed and configured Eclipse IDE
 - Set up GitHub repository
 - Solved basic Java practice problems
 
-### 17-Dec-2025 (Wednesday)
-
+### 17-Dec-2025 (Wednesday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 - Solved elementary problems from LeetCode
 - Practiced Java input/output and conditionals
 
-### 18-Dec-2025 (Thursday)
+### 18-Dec-2025 (Thursday) [Click here for reference](https://github.com/Manasverma1111/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 - Completed Level 1 and Level 2 Programming Elements problems
 
-### 19-Dec-2025 (Friday)
+### 19-Dec-2025 (Friday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 - Studied Java history and features
 - Solved elementary Java problems
 
-### 20-Dec-2025 (Saturday)
+### 20-Dec-2025 (Saturday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
 - Completed Level 1, Level 2, and Level 3 Control Flow problems
 
@@ -84,5 +83,5 @@ BridgeLabz-Training/
 
 ## Author
 
-**Kapil Gupta**  
+**Manas Verma**  
 BridgeLabz (Capgemini) Trainee
