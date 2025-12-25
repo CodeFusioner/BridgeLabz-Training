@@ -1,12 +1,9 @@
-package com.scenariobased;
 import java.util.Scanner;
 
 public class ElectionBoothManager {
-    // function to check voter eligibility
     public static boolean isEligible(int age) {
         return age >= 18;
     }
-    // function to update vote count
     public static int[] recordVote(int vote, int[] votes) {
 
         switch (vote) {
@@ -24,7 +21,6 @@ public class ElectionBoothManager {
         }
         return votes;
     }
-    // function to display final results
     public static void displayResults(int[] votes) {
         System.out.println("\nElection Results");
         System.out.println("Candidate 1 Votes: " + votes[0]);
@@ -33,11 +29,8 @@ public class ElectionBoothManager {
     }
 
     public static void main(String[] args) {
-        // create scanner object
         Scanner sc = new Scanner(System.in);
-        // array to store votes of 3 candidates
         int[] votes = new int[3];
-        // keep taking input until user enters exit code
         while (true) {
             System.out.print("\nEnter age (or -1 to exit): ");
             int age = sc.nextInt();
@@ -55,12 +48,9 @@ public class ElectionBoothManager {
             System.out.println("2. Candidate B");
             System.out.println("3. Candidate C");
             int vote = sc.nextInt();
-            // function call to record vote
             votes = recordVote(vote, votes);
         }
-        // display final result
         displayResults(votes);
 
-        sc.close();
     }
 }
