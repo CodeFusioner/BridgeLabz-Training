@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class SumNaturalNumbers {
+public class SunNaturalNumbers {
 
     public static int recursiveSum(int n) {
         if (n == 0) return 0;
