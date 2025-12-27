@@ -1,9 +1,0 @@
-# Ignore everything
-*
-
-# Allow only these folders
-!core-java-practice/**
-!review/**
-
-# Keep the .gitignore file itself
-!.gitignore
