@@ -1,0 +1,7 @@
+# Ignore IDE + build + review folders
+.idea/
+out/
+review/
+
+# Optional (common macOS file)
+.DS_Store
