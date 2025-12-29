@@ -70,18 +70,53 @@ BridgeLabz-Training/
 
 - Completed Level 1 and Level 2 Programming Elements problems
 
-### 19-Dec-2025 (Friday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+### 19-Dec-2025 (Friday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
 - Studied Java history and features
 - Solved elementary Java problems
-
-### 20-Dec-2025 (Saturday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
-
 - Completed Level 1, Level 2, and Level 3 Control Flow problems
+
+### 20-Dec-2025 (Saturday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+
+- Completed Level 1, and Level 2 Array Problems
+
+## Week 2: Continuing with Java and Its Fundamentals
+
+### 22-Dec-2025 (Monday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string)
+
+- Completed Level 1 String Problems
+
+### 23-Dec-2025 (Tuesday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string)
+
+- Completed Level 2, and Level 3 String Problems
+
+### 24-Dec-2025 (Wednesday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+- Completed Level 1 Java Methods
+
+### 25-Dec-2025 (Thursday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+- Completed Level 2, and Level 3 Java Methods
+
+### 26-Dec-2025 (Friday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string)
+
+- Completed Practice Assignment String
+
+### 27-Dec-2025 (Saturday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+
+- Completed EXTRAS - Built-In Function Practice Problem
+
+### 28-Dec-2025 (Sunday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+
+- Completed EXTRAS - Built-In Function Practice Problem
+
+### 29-Dec-2025 (Monday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+- Completed Scenario Based
 
 ---
 
 ## Author
 
 **Kapil Gupta**  
-BridgeLabz (Capgemini) Trainee
+BridgeLabz Trainee
