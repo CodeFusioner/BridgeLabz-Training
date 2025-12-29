@@ -110,6 +110,8 @@ BridgeLabz-Training/
 
 - Completed EXTRAS - Built-In Function Practice Problem
 
+## Week 3: Continuing with Java and Its Fundamentals
+
 ### 29-Dec-2025 (Monday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 - Completed Scenario Based
