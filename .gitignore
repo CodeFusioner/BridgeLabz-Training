@@ -4,3 +4,6 @@ out/
 
 # Optional (common macOS file)
 .DS_Store
+
+# IDE files
+*.iml
