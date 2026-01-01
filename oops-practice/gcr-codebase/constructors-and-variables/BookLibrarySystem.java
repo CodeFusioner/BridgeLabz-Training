@@ -28,7 +28,7 @@ class Books {
 }
 
 // Child class
-class EBook extends Books {
+class EBook {
 
     double fileSize; // in MB
 
