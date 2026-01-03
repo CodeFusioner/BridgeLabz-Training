@@ -1,74 +1,75 @@
-class Vehicles {
-    int maxSpeed;
-    String fuelType;
+package inheritance;
 
-    Vehicles(int maxSpeed, String fuelType) {
-        this.maxSpeed = maxSpeed;
-        this.fuelType = fuelType;
+class Vehicle {
+    int vehicleMaxSpeedVal;
+    String vehicleFuelTypeVal;
+
+    Vehicle(int speedVal, String fuelVal) {
+        vehicleMaxSpeedVal = speedVal;
+        vehicleFuelTypeVal = fuelVal;
     }
 
     void displayInfo() {
-        System.out.println("Max Speed: " + maxSpeed);
-        System.out.println("Fuel Type: " + fuelType);
+        System.out.println("Vehicle Info");
     }
 }
 
-class Car extends Vehicles {
-    int seatCapacity;
+class Car extends Vehicle {
+    int carSeatCapacityVal;
 
-    Car(int maxSpeed, String fuelType, int seatCapacity) {
-        super(maxSpeed, fuelType);
-        this.seatCapacity = seatCapacity;
+    Car(int cSpeed, String cFuel, int seatCap) {
+        super(cSpeed, cFuel);
+        carSeatCapacityVal = seatCap;
     }
 
     @Override
     void displayInfo() {
-        super.displayInfo();
-        System.out.println("Seat Capacity: " + seatCapacity);
+        System.out.println("Car — Speed: " + vehicleMaxSpeedVal + ", Fuel: " + vehicleFuelTypeVal +
+                ", Seats: " + carSeatCapacityVal);
     }
 }
 
-class Truck extends Vehicles {
-    int loadCapacity;
+class Truck extends Vehicle {
+    int truckLoadCapacityVal;
 
-    Truck(int maxSpeed, String fuelType, int loadCapacity) {
-        super(maxSpeed, fuelType);
-        this.loadCapacity = loadCapacity;
+    Truck(int tSpeed, String tFuel, int loadCap) {
+        super(tSpeed, tFuel);
+        truckLoadCapacityVal = loadCap;
     }
 
     @Override
     void displayInfo() {
-        super.displayInfo();
-        System.out.println("Load Capacity: " + loadCapacity + " tons");
+        System.out.println("Truck — Speed: " + vehicleMaxSpeedVal + ", Fuel: " + vehicleFuelTypeVal +
+                ", Load: " + truckLoadCapacityVal + "kg");
     }
 }
 
-class Motorcycle extends Vehicles {
-    boolean hasGear;
+class Motorcycle extends Vehicle {
+    boolean motoHasABSVal;
 
-    Motorcycle(int maxSpeed, String fuelType, boolean hasGear) {
-        super(maxSpeed, fuelType);
-        this.hasGear = hasGear;
+    Motorcycle(int mSpeed, String mFuel, boolean hasABS) {
+        super(mSpeed, mFuel);
+        motoHasABSVal = hasABS;
     }
 
     @Override
     void displayInfo() {
-        super.displayInfo();
-        System.out.println("Has Gear: " + hasGear);
+        System.out.println("Motorcycle — Speed: " + vehicleMaxSpeedVal + ", Fuel: " + vehicleFuelTypeVal +
+                ", ABS: " + motoHasABSVal);
     }
 }
 
 public class VehicleTest {
     public static void main(String[] args) {
-        Vehicles[] vehicles = {
-                new Car(180, "Petrol", 5),
-                new Truck(120, "Diesel", 10),
-                new Motorcycle(150, "Petrol", true)
-        };
+        Vehicle[] vehicleArrayVal = new Vehicle[3];
 
-        for (Vehicles v : vehicles) {
-            v.displayInfo();
-            System.out.println();
+        vehicleArrayVal[0] = new Car(180, "Petrol", 5);
+        vehicleArrayVal[1] = new Truck(120, "Diesel", 5000);
+        vehicleArrayVal[2] = new Motorcycle(160, "Petrol", true);
+
+        for (Vehicle eachVehicleObj : vehicleArrayVal) {
+            eachVehicleObj.displayInfo();   // Polymorphism in action
         }
     }
 }
+
