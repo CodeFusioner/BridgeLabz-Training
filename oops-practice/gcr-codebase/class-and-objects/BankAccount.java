@@ -20,7 +20,7 @@ class BankAccount {
         System.out.println("Current balance: " + balance);
     }
     public static void main(String[] args) {
-        BankAccountScenario acc = new BankAccountScenario();
+        BankAccount acc = new BankAccount();
         acc.accountHolder = "State of Chennai";
         acc.accountNumber = "ACC001";
         acc.balance = 700;

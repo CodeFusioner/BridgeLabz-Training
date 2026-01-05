@@ -28,13 +28,12 @@ class Books {
 }
 
 // Child class
-class EBook {
+class EBookss extends Books {
 
     double fileSize; // in MB
 
     // Constructor
-    EBook(String ISBN, String title, String author, double fileSize) {
-
+    EBookss(String ISBN, String title, String author, double fileSize) {
         super(ISBN, title, author);
         this.fileSize = fileSize;
     }
@@ -55,7 +54,7 @@ public class BookLibrarySystem {
 
     public static void main(String[] args) {
 
-        EBook ebook = new EBook(
+        EBookss ebook = new EBookss(
                 "978-0134685991",
                 "Effective Java",
                 "Joshua Bloch",
