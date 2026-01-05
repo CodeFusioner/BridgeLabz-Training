@@ -116,6 +116,25 @@ BridgeLabz-Training/
 
 - Completed Scenario Based
 
+### 30-Dec-2025 (Tuesday)
+- Completed Scenario Based Snake and Ladder [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/SnakeAndLadderSimulator.java)
+- Continuing with OOPs Concept
+- Completed Class and Object Assignment [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-objects)
+
+### 31-Dec-2025 (Wednesday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-and-variables)
+- Completed Java Constructors, Instance vs. Class Variables, Access Modifiers Level 1
+
+### 01-Jan-2026 (Thursday)
+- Completed this, static, final keywords and instanceof operator Level 1 [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/java-keywords)
+
+### 02-Jan-2026 (Friday) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/uml-diagram)
+- Completed Object-Oriented Design Principles UML Diagrams
+- Solved Scenario Based [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+### 03-Jan-2026 (Saturday)
+- Completed Inheritance Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
+- Solved Scenario Based [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
 ---
 
 ## Author
