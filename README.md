@@ -27,6 +27,7 @@ Each section highlights the learning objectives and tasks completed on specific 
 | -------------------- | ----------------------------------------------------------------------------- |
 | `main`               | Contains the main README and consolidated documentation                       |
 | `core-java-practice` | Contains Java practice programs, control flow problems, and daily assignments |
+| oops-practice        | Contains OOPs practice programs, and daily assignments                        |
 
 ---
 
@@ -46,6 +47,16 @@ BridgeLabz-Training/
 |   +-- leet-code-codebase/
 |   |
 |   +-- scenario-based/
+|
++-- oops-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- class-and-object
+|   |
+|   +-- leet-code-codebase/
+|   |
+|   +-- scenario-based
 |
 +-- README.md
 ```
