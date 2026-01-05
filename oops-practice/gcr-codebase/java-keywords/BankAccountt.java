@@ -36,8 +36,8 @@ class BankAccountts {
 //    display details using instanceof
     void displayDetails(Object obj) {
 
-        if (obj instanceof BankAccount) {
-            BankAccount acc = (BankAccount) obj;
+        if (obj instanceof BankAccountScenario) {
+            BankAccountScenario acc = (BankAccountScenario) obj;
             System.out.println("Bank Name: " + bankName);
             System.out.println("Account Holder: " + acc.accountHolder);
             System.out.println("Account Number: " + acc.accountNumber);
