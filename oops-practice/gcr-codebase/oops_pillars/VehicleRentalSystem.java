@@ -1,3 +1,5 @@
+package oops_pillars;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -74,9 +76,9 @@ class Cars extends Vehicless implements Insurable {
     }
 }
 
-class Bike extends Vehicless implements Insurable {
+class Bikes extends Vehicless implements Insurable {
 
-    public Bike(String vehicleNumber, double rentalRate, String policyNumber) {
+    public Bikes(String vehicleNumber, double rentalRate, String policyNumber) {
         super(vehicleNumber, "Bike", rentalRate, policyNumber);
     }
 
@@ -125,7 +127,7 @@ public class VehicleRentalSystem {
         List<Vehicless> vehicles = new ArrayList<>();
 
         vehicles.add(new Cars("CAR101", 3000, "POL123456"));
-        vehicles.add(new Bike("BIKE202", 800, "POL654321"));
+        vehicles.add(new Bikes("BIKE202", 800, "POL654321"));
         vehicles.add(new Trucks("TRK303", 7000, "POL987654"));
 
         int days = 5;
