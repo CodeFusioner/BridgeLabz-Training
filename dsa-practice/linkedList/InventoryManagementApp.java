@@ -140,7 +140,6 @@ class InventoryLinkedList {
         }
         return result;
     }
-
     private ItemNode getMiddle(ItemNode h) {
         ItemNode slow = h, fast = h.next;
         while (fast != null && fast.next != null) {
@@ -157,12 +156,10 @@ class InventoryLinkedList {
             temp = temp.next;
         }
     }
-
     private void print(ItemNode i) {
         System.out.println(i.itemId + " | " + i.itemName + " | Qty: " + i.quantity + " | Price: " + i.price);
     }
 }
-
 public class InventoryManagementApp {
     public static void main(String[] args) {
 

@@ -64,7 +64,7 @@ class TextEditorHistory {
     }
 }
 
-public class TextEditorApp {
+public class TextEditor {
     public static void main(String[] args) {
 
         TextEditorHistory editor = new TextEditorHistory();
