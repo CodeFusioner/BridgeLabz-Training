@@ -1,4 +1,4 @@
-package review.reviews;
+package review;
 import java.util.*;
 public class FindMissingNumber {
     public static void main(String[] args) {
