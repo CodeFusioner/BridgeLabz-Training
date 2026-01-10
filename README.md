@@ -27,7 +27,10 @@ Each section highlights the learning objectives and tasks completed on specific 
 | -------------------- | ----------------------------------------------------------------------------- |
 | `main`               | Contains the main README and consolidated documentation                       |
 | `core-java-practice` | Contains Java practice programs, control flow problems, and daily assignments |
-| oops-practice        | Contains OOPs practice programs, and daily assignments                        |
+| `oops-practice`      | Contains OOPs practice programs, and daily assignments                        |
+| `dsa-practice`       | Contains DSA practice programs, and daily assignments                         |
+| `reviews`            | Contains review programs                                                      |
+
 
 ---
 
@@ -52,11 +55,22 @@ BridgeLabz-Training/
 |   |
 |   +-- gcr-codebase/
 |   |   |
-|   |   +-- class-and-object
-|   |
+|   |   +-- class-and-object/
+|   |   |
+|   |   +-- constructors-and-varaibles/
+|   |   |
+|   |   +-- inheritance/
+|   |   |
+|   |   +-- javakeywords/
+|   |   |
+|   |   +-- oops-pillars/
+|   |   |
+|   |   +-- uml-diagram/
+|   |   |
+|   |   +-- 
 |   +-- leet-code-codebase/
 |   |
-|   +-- scenario-based
+|   +-- scenario-based/
 |
 +-- README.md
 ```
