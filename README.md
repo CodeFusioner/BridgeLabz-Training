@@ -160,6 +160,28 @@ BridgeLabz-Training/
 - Completed Inheritance Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
 - Solved Scenario Based [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
+## Week 4: Continuing with Core Java, OOPs Principles, and Scenario Based Problems
+
+### 05-Jan-2026 (Monday)
+- Completed Encapsulation, Polymorphism, Interface and Abstract Class Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/oops_pillars)
+- Solved Scenario Based Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+### 06-Jan-2026 (Tuesday)
+- Solved Scenario Based Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+- - Solved LeetCode Questions [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase)
+
+### 07-Jan-2026 (Wednesday)
+- Solved Scenario Based Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+- Solved LeetCode Questions [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase)
+
+### 08-Jan-2026 (Thursday)
+- Solved DSA Practice Problems (LinkedList) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/dsa-practice/dsa-practice/linkedList)
+- Solved LeetCode Questions [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase)
+
+### 09-Jan-2026 (Friday)
+- Solved OOPs Scenario Based Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+- Solved LeetCode Questions [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase)
+
 ---
 
 ## Author
