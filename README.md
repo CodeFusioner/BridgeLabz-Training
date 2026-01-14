@@ -46,6 +46,12 @@ BridgeLabz-Training/
 |   |   +-- programming-elements/
 |   |   |
 |   |   +-- control-flow/
+|   |   |
+|   |   +-- arrays/
+|   |   |
+|   |   +-- string/
+|   |   |
+|   |   +-- methods/
 |   |
 |   +-- leet-code-codebase/
 |   |
@@ -79,6 +85,7 @@ BridgeLabz-Training/
 |   |   +-- linkedList/
 |   |   +-- hashMap/
 |   |   +-- stack_queue/
+|
 
 +-- README.md
 ```
