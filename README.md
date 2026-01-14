@@ -72,6 +72,14 @@ BridgeLabz-Training/
 |   |
 |   +-- scenario-based/
 |
++-- dsa-practice/(Branch & Folder Name)
+|   |
+|   +-- dsa-practice/
+|   |   |
+|   |   +-- linkedList/
+|   |   +-- hashMap/
+|   |   +-- stack_queue/
+
 +-- README.md
 ```
 
@@ -181,6 +189,15 @@ BridgeLabz-Training/
 ### 09-Jan-2026 (Friday)
 - Solved OOPs Scenario Based Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 - Solved LeetCode Questions [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase)
+
+## Week 5: Continuing with Core Java, OOPs Principles, and DSA Based Practice Problems
+
+### 12-Jan-2026 (Monday)
+- Solved OOPs Scenario Based Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+### 13-Jan-2026 (Tuesday)
+- Solved DSA Practice Problems (Stack & Queue) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/dsa-practice/dsa-practice/stack_queue)
+- Solved DSA Practice Problems (HashMap) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/dsa-practice/dsa-practice/hashMap)
 
 ---
 
