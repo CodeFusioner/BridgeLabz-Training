@@ -19,7 +19,7 @@ class Claim {
         return type;
     }
     public double getAmount(){
-        return double;
+        return amount;
     }
 }
 
