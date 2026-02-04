@@ -38,6 +38,7 @@ public class MovieDemo {
                 new Movie("Movie E", 9.1, 2023),
                 new Movie("Movie F", 8.8, 2021)
         );
-        movies.stream().sorted(comparing(Movie::getRating).reversed().thenComparing(Movie::getReleaseYear).reversed()).limit(5).forEach(out::println);
+        movies.stream().sorted((a,b) -> Double.compare(a.getRating(),b.getRating()))
+                .limit(5).forEach(out::println);
     }
 }
