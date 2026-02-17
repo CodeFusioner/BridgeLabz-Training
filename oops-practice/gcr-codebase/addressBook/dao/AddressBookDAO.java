@@ -1,5 +1,7 @@
-import java.util.*;
+package addressBook.dao;
+import addressBook.model.ContactC;
 
+import java.util.*;
 
 // Use Case 5,6,7,8,9,10: Data Storage Layer
 public class AddressBookDAO {

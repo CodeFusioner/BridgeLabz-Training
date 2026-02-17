@@ -1,5 +1,9 @@
+package addressBook.io;
+
 import java.io.FileWriter;
 import java.util.List;
+
+import addressBook.model.ContactC;
 import com.google.gson.Gson;
 public class JSONStorage {
 

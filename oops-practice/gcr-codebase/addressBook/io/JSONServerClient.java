@@ -1,3 +1,7 @@
+package addressBook.io;
+
+import addressBook.model.ContactC;
+
 import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;

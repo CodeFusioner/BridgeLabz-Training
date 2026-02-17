@@ -1,6 +1,9 @@
+package addressBook.io;
+
 import java.io.FileWriter;
 import java.util.List;
 
+import addressBook.model.ContactC;
 import com.opencsv.CSVWriter;
 public class CSVStorage {
 

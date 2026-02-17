@@ -1,3 +1,5 @@
+package addressBook.model;
+
 import java.util.Objects;
 
 public class ContactC {

@@ -1,3 +1,6 @@
+package addressBook.io;
+
+import addressBook.model.ContactC;
 
 import java.io.*;
 import java.util.*;
@@ -5,9 +8,9 @@ import java.util.*;
 public class FileStorage {
 
     // UC13 Write
-    public static void writeToFile(List<Contact> list,String file)throws Exception{
+    public static void writeToFile(List<ContactC> list,String file)throws Exception{
         BufferedWriter bw=new BufferedWriter(new FileWriter(file));
-        for(Contact c:list){
+        for(ContactC c:list){
             bw.write(c.toString());
             bw.newLine();
         }

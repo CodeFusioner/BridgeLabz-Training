@@ -1,3 +1,8 @@
+package addressBook.service;
+
+import addressBook.dao.AddressBookDAO;
+import addressBook.model.ContactC;
+
 import java.util.List;
 import java.util.Set;
 
@@ -10,7 +15,7 @@ public class AddressBookService {
     }
 
     // Use Case 2,5,7
-    public boolean addContact(String bookName,ContactC contact){
+    public boolean addContact(String bookName, ContactC contact){
         return dao.addContact(bookName,contact);
     }
 
