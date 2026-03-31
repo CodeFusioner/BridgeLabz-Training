@@ -211,6 +211,105 @@ BridgeLabz-Training/
 
 ### 15-Jan-2026 (Thursday)
 - Solved DSA Practice Problems (Sorting Algorithms) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/dsa-practice/dsa-practice/sorting)
+
+### 16-Jan-2026 (Friday)
+- Solved DSA Practice Problems (Linear & Binary Search) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/dsa-practice/dsa-practice/linear-binary-search)
+
+### 17-Jan-2026 (Saturday)
+- Solved DSA Practice Problems (Runtime Analysis & Big-O Notation) [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/dsa-practice/dsa-practice/runtime_analysis)
+- Solved OOPs Scenario Based Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+## Week 6: Continuing with Java , OOPs Principles, and DSA Based Practice Problems
+
+### 19-Jan-2026 (Monday)
+- Solved Java (Generics) Based Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/generics)
+- Solved OOPs & DSA Scenario Based Practice Problem [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+### 20-Jan-2026 (Tuesday)
+- Completed Java (Generics) Based Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/generics)
+- Solved DSA Scenario Based Practice Problem [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+### 21-Jan-2026 (Wednesday)
+- Solved Java (Collections) List, Set, Queue & Map Based Practice Problems [Click here for reference]()
+- Solved DSA Scenario Based Practice Problem
+
+### 22-Jan-2026 (Thursday)
+- Solved Java (Collections) List, Set, Queue & Map Based Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/interfaces)
+
+### 23-Jan-2026 (Friday)
+- Solved Java (Collections) List, Set, Queue & Map Based Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/interfaces)
+- Solved Collections Scenario Based Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/scenario-based)
+
+### 24-jan-2026 (Saturday)
+- Solved Java Stream Ques [Click here for reference](https://github.com/Manasverma1111/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/java_streams)
+
+## Week 7: Continuing with Java (Collections, Streams) , OOPs Principles, and DSA Based Practice Problems
+
+### 26-Jan-2026 (Monday)
+- Completed Java Stream Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/streams)
+
+### 27-Jan-2026 (Tuesday)
+- Solved Exception Handling Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/Exceptions)
+
+### 28-Jan-2026 (Wednesday)
+- Solved Lexical Twist Scenario Based Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/LexicalTwist.java)
+- Solved Scenario Based Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/scenario-based)
+
+### 29-Jan-2026 (Thursday)
+- Solved JUnit Testing Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/Junit/src)
+
+### 30-Jan-2026 (Friday)
+- Solved Java Regex Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/regex)
+- Completed JUnit Testing Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/Junit/src)
+
+### 31-Jan-2026 (Saturday)
+- Solved Java Reflections Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/reflection)
+- Solved Java Annotations Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/annotation)
+
+## Week 8: Continuing with Java8 Features , OOPs Principles, and DSA Based Practice Problems
+
+### 2-Feb-2026 (Monday)
+- Solved Java Stream API Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/streamApi)
+
+### 3-Feb-2026 (Tuesday)
+- Solved Stream Buzz Scenario Based Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/scenario-based/streamBuzz)
+- Solved CSV Data Handling Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/CSVDataHandling)
+- Solved Factory Robot Hazard Analyzer Scenario Based Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/dsa-practice/dsa-practice/FactoryRobotHazardAnalyzer)
+- Solved CSV Data Handling Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/CSVDataHandling)
+- Solved Stream API Practice Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/streamApi)
+
+### 4-Feb-2026 (Wednesday)
+- Solved JSON Data Practice Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/jsonData)
+- Solved Functional Interface Practice Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/functionalInterface)
+- Solved Lambda Expression Practice Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/lambdaExpressions)
+
+### 5-Feb-2026 (Thursday)
+- Solved AeroVigil DSA Practice Problem [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/dsa-practice/dsa-practice/AeroVigilProblem)
+- Solved Collectors Practice Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/collectors)
+-
+### 6-Feb-2026 (Friday)
+- Solved Design Pattern Ques [Click here for reference](https://github.com/Manasverma1111/BridgeLabz-Training/tree/solution-designing-practice/solution-designing-practice/gcr-codebase)
+
+### 7-Feb-2026 (Saturday)
+- Solved Ocean Fleet Scenario Based Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/OceanFleet.java)
+
+## Week 9: Continuing with Java8 Features, JUnit Testing, OOPs Principles, and DSA Based Practice Problems
+
+### 8-Feb-2026 (Sunday)
+- Solved Multithreading Practice Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/multithreading-practice/multithreading-practice/gcr-codebase/multi_threading)
+
+### 9-Feb-2026 (Monday)
+- Solved JUnit Testing Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/Junit)
+- Solved Event Feedback & Rating analyzer Scenario Based Ques [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/FlipKeyAlgorithm.java)
+- Solved JDBC & DBMS(MySQL) Practice Problems [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/jdbc-java-practice/jdbc-java-practice/gcr-codebase/health-clinic-app)
+
+## Week 10: Continuing with Java8 Features, OOPs Principles, and DSA Based Practice Problems
+
+### 16-Feb-2026 (Monday)
+- Solved Employee Wage Computation Problem [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based/employee-wage-computation)
+
+### 17-Feb-2026 (Tuesday)
+- Solved Address book Problem Solution [Click here for reference](https://github.com/CodeFusioner/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/addressBook)
 ---
 
 ## Author
